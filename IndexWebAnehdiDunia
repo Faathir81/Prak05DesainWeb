@@ -99,23 +99,23 @@
     <br>
     <footer>
         <ul>
-            <li>
+            <li class="Footer1">
                 <a href="https://www.anehdidunia.com/p/about-us.html">About Us</a>
             </li>
-            <li>
+            <li class="Footer1">
                 <a href="https://www.anehdidunia.com/p/disclimer.html">Disclimer</a>
             </li>
-            <li>
+            <li class="Footer1">
                 <a href="https://www.anehdidunia.com/p/contact-us.html">Contact Us</a>
             </li>
-            <li>
+            <li class="Footer1">
                 <a href="https://www.anehdidunia.com/p/privacy-policy.html">Privacy Policy</a>
             </li>
-            <li>
+            <li class="Footer1">
                 <a href="https://www.anehdidunia.com/p/pasang-iklan-premium.html">Pasang Iklan Premium</a>
             </li>
         </ul>
-        <div class="footer-text">@2021 - <a href="/" itemprop="url" title="Berita Aneh Unik Terbaru"><span itemprop="name">ANEH DI DUNIA</span></a></div>
+        <div class="Footer1">@2021 - <a href="/" itemprop="url" title="Berita Aneh Unik Terbaru"><span itemprop="name">ANEH DI DUNIA</span></a></div>
     </footer>
 </body>
 </html>
