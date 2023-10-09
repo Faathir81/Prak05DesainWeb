@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Prak05.css">
+    <title>Berita Aneh dan Unik Terbaru</title>
+</head>
+<body>
+    <div class="container">
+        <ul class="flex-container">
+            <img alt="Berita Aneh dan Unik Terbaru" height="35" src="https://lh3.googleusercontent.com/-pTGYmnhhhG0/YKfvIHvFGXI/AAAAAAAAA9Y/udhfoL9raAYp8B-k_fkmhAuebMsgaZEGACLcBGAsYHQ/w1600/aneh%2Blogo.png" srcset="https://lh3.googleusercontent.com/-pTGYmnhhhG0/YKfvIHvFGXI/AAAAAAAAA9Y/udhfoL9raAYp8B-k_fkmhAuebMsgaZEGACLcBGAsYHQ/w250/aneh%2Blogo.png 1x, https://lh3.googleusercontent.com/-pTGYmnhhhG0/YKfvIHvFGXI/AAAAAAAAA9Y/udhfoL9raAYp8B-k_fkmhAuebMsgaZEGACLcBGAsYHQ/w1600/aneh%2Blogo.png 2x" title="Berita Aneh dan Unik Terbaru" width="300">
+            <div><li>Beranda</li></div>
+            <div><li>Berita Aneh</li></div>
+            <div><li>Video Aneh</li></div>
+            <div><li>Gambar Unik</li></div>
+            <div><li>Pasang Iklan</li></div>
+        </ul>
+    </div>
+    <h1>
+        <a aria-label="facebook" href="#" target="_blank"><span class="social-icon facebook-icon"><i></i></span></a>
+        <a aria-label="twitter" href="#" target="_blank"><span class="social-icon twitter-icon"><i></i></span></a>
+        <a aria-label="youtube" href="#" target="_blank"><span class="social-icon youtube-icon"><i></i></span></a>
+        <a aria-label="instagram" href="#" target="_blank"><span class="social-icon instagram-icon"><i></i></span></a>
+        <a aria-label="whatsapp-icon" href="#" target="_blank"><span class="social-icon whatsapp-icon"><i></i></span></a>
+    </h1>
+    <h2 class="Unik">Berita Unik Terbaru</h2>
+    <div class="Hewan">
+        <img alt="5 Hewan Ini Bisa Mendeteksi Penyakit Berbahaya pada Manusia" class="GambarTikus" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy6GoA7QUOEJBqeUV-OZ5gTUrTk1qxe9xaJ0DsnW_-FVRXZLdBzN5jCvjNR28BXAQ7ylAx8lxIBMEq-1YmXcg61-rCwlb2uQRMecYbVNktzLkC8FrP7g400rO-6eEzzXyjZDd17D8HvAz3IvE6zyqfGhkzxYaJHTASu0ZCONr2iNpPDGXk1vQEdlUC/w400-h400-p-k-no-nu/Tikus.jpg" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy6GoA7QUOEJBqeUV-OZ5gTUrTk1qxe9xaJ0DsnW_-FVRXZLdBzN5jCvjNR28BXAQ7ylAx8lxIBMEq-1YmXcg61-rCwlb2uQRMecYbVNktzLkC8FrP7g400rO-6eEzzXyjZDd17D8HvAz3IvE6zyqfGhkzxYaJHTASu0ZCONr2iNpPDGXk1vQEdlUC/w400-h400-p-k-no-nu/Tikus.jpg" srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy6GoA7QUOEJBqeUV-OZ5gTUrTk1qxe9xaJ0DsnW_-FVRXZLdBzN5jCvjNR28BXAQ7ylAx8lxIBMEq-1YmXcg61-rCwlb2uQRMecYbVNktzLkC8FrP7g400rO-6eEzzXyjZDd17D8HvAz3IvE6zyqfGhkzxYaJHTASu0ZCONr2iNpPDGXk1vQEdlUC/w400-h400-p-k-no-nu/Tikus.jpg 1x, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy6GoA7QUOEJBqeUV-OZ5gTUrTk1qxe9xaJ0DsnW_-FVRXZLdBzN5jCvjNR28BXAQ7ylAx8lxIBMEq-1YmXcg61-rCwlb2uQRMecYbVNktzLkC8FrP7g400rO-6eEzzXyjZDd17D8HvAz3IvE6zyqfGhkzxYaJHTASu0ZCONr2iNpPDGXk1vQEdlUC/w800-h800-p-k-no-nu/Tikus.jpg 2x" width="200" lazied="IMG">
+        <h2>
+            <a id="Kapibara" href="#">5 Hewan Ini Bisa Mendeteksi Penyakit Berbahaya pada Manusia</a>
+        </h2>
+        <p class="Hewan1">Anehdidunia.com - Meskipun teknologi kedokteran sudah demikian canggih, bukan berarti penggunaan hewan untuk keperluan …</p>
+        <p class="Hewan1">
+            <a href="https://www.anehdidunia.com/2023/09/5-hewan-ini-bisa-mendeteksi-penyakit.html">Baca selengkapnya <span class="screen-reader-text">5 Hewan Ini Bisa Mendeteksi Penyakit Berbahaya pada Manusia</span></a>
+        </p>
+    </div>
+    <h2 class="Unik">Postingan Terbaru</h2>
+    <div class="Peristiwa">
+        <img alt="4 Peristiwa Paling Aneh dalam Dunia Kedokteran yang Tidak Bisa Dijelaskan Hingga Sekarang" class="lazyload loaded" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdGRaI-3kph3PhLFkuExlcD9JGFEbTkAevYOj8PPlr53wi80BPhHn1ylp9ObfyNGbJ0yQed6QFn0pFYMk3_omBsx-PK6xXK3EisHKRiLtEghhtec9pANhglkNSVSGLjinmtMFLOJBPXLy32HOBZ7wBuStyJBGFZaENQVr1g11jGWoMowSBjmJZn9cD/w400-h225-p-k-no-nu/The-Toxic-Lady.jpg" height="225" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdGRaI-3kph3PhLFkuExlcD9JGFEbTkAevYOj8PPlr53wi80BPhHn1ylp9ObfyNGbJ0yQed6QFn0pFYMk3_omBsx-PK6xXK3EisHKRiLtEghhtec9pANhglkNSVSGLjinmtMFLOJBPXLy32HOBZ7wBuStyJBGFZaENQVr1g11jGWoMowSBjmJZn9cD/w400-h225-p-k-no-nu/The-Toxic-Lady.jpg" title="4 Peristiwa Paling Aneh dalam Dunia Kedokteran yang Tidak Bisa Dijelaskan Hingga Sekarang" width="400" lazied="IMG">
+        <br>
+        <a class="Capy1" href="#">4 Peristiwa Paling Aneh dalam Dunia Kedokteran yang Tidak Bisa Dijelaskan Hingga Sekarang</a>
+        <br>
+        <span>Oleh Aneh Unik</span>
+        <time datetime="2023-09-18T07:30:00+07:00" title="2023-09-18T07:30:00+07:00">September 18, 2023</time>
+    </div>
+    <br>
+    <br>
+    <div class="Benda">
+        <img alt="Benda yang Nampaknya Kurang Penting, Namun Kerap Menjadi Sasaran Pencurian" class="lazyload loaded" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvD89e-3NegYgM9Qndr3rWFcZ-N-ayxPukx_0dsO79yhUinmpzLvxgzG8xen1s8j6uXd5wqBfxhDAnq4j_GcnQwE7qTi-4ph8Oijts5EHUsSE6HLQbX6t8fu1YPv7GvaHxfcYzBXfQ_gk_mDumhfzN9_dnrksYdqsmuyDDfYEgTQUcIC_zdkzE6irP/w400-h225-p-k-no-nu/instalasisegment16.jpg" height="225" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvD89e-3NegYgM9Qndr3rWFcZ-N-ayxPukx_0dsO79yhUinmpzLvxgzG8xen1s8j6uXd5wqBfxhDAnq4j_GcnQwE7qTi-4ph8Oijts5EHUsSE6HLQbX6t8fu1YPv7GvaHxfcYzBXfQ_gk_mDumhfzN9_dnrksYdqsmuyDDfYEgTQUcIC_zdkzE6irP/w400-h225-p-k-no-nu/instalasisegment16.jpg" title="Benda yang Nampaknya Kurang Penting, Namun Kerap Menjadi Sasaran Pencurian" width="400" lazied="IMG">
+        <br>
+        <a class="Capy1" href="#">Benda yang Nampaknya Kurang Penting, Namun Kerap Menjadi Sasaran Pencurian</a>
+        <br>
+        <span class="author-info">Oleh Aneh Unik</span>
+        <time datetime="2023-09-11T08:30:00+07:00" title="2023-09-11T08:30:00+07:00">September 11, 2023</time>
+    </div>
+    <br>
+    <br>
+    <div class="Negara">
+        <img alt="Proyek Rahasia Paling Aneh yang Konon Pernah Dilakukan oleh Intelijen Amerika Serikat" class="lazyload loaded" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-hmTa6svl0TVc9X8hDM0AHesa8YNdKPHZn_xGH-sz4xx8hhSrqluZJW95fIL0nYdIPqKeM8w7-upB3irt5aCX1Nf9bLRxXMJIXgVtC83OyKlz7xkMRKbM59BVYXIG1JLDWEzV7Uy4zH0eAORJFnTcM-lGju3lZ1lzlSKadK9gGpt0h52nDUlI-QcN0PQ/w400-h225-p-k-no-nu/Project-Mannequin-menurut-proyek-kerja-sama-rahasia-yang-dilakukan-oleh-badan-intelijen-Inggris-(M16).jpg" height="225" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-hmTa6svl0TVc9X8hDM0AHesa8YNdKPHZn_xGH-sz4xx8hhSrqluZJW95fIL0nYdIPqKeM8w7-upB3irt5aCX1Nf9bLRxXMJIXgVtC83OyKlz7xkMRKbM59BVYXIG1JLDWEzV7Uy4zH0eAORJFnTcM-lGju3lZ1lzlSKadK9gGpt0h52nDUlI-QcN0PQ/w400-h225-p-k-no-nu/Project-Mannequin-menurut-proyek-kerja-sama-rahasia-yang-dilakukan-oleh-badan-intelijen-Inggris-(M16).jpg" title="Proyek Rahasia Paling Aneh yang Konon Pernah Dilakukan oleh Intelijen Amerika Serikat" width="400" lazied="IMG">
+        <br>
+        <a class="Capy1" href="#">Selain Indonesia, Negara dan Wilayah Ini Dulunya Pernah Dijajah oleh Belanda</a>
+        <br>
+        <span class="author-info">Oleh Aneh Unik</span>
+        <time datetime="2023-09-09T10:08:00+07:00" title="2023-09-09T10:08:00+07:00">September 09, 2023</time>
+    </div>
+    <br>
+    <br>
+    <div class="Nyawa">
+        <img alt="Mereka Nyaris Kehilangan Nyawanya Saat Mengambil Foto" class="lazyload loaded" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM_1qRSRx3FrYeHyZ77MFuoKMPsf8a-mSDcIjfr6kPUb8GprBb38I12x5vaf5sKwrgCzI5VubCuHJOseoW5pIEeM1afLyCyKs_sLfGM4FnLmDhbJ1TNmJeORFA1gkPpM4IlBbxvdR0N8TQxIHy7E23SSE277yBtTNr8_xFWQ9jv_ltp5T12kkH8bMM/w400-h225-p-k-no-nu/o_19rcdfahpmamgi41lkp19d31lhla.jpg" height="225" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM_1qRSRx3FrYeHyZ77MFuoKMPsf8a-mSDcIjfr6kPUb8GprBb38I12x5vaf5sKwrgCzI5VubCuHJOseoW5pIEeM1afLyCyKs_sLfGM4FnLmDhbJ1TNmJeORFA1gkPpM4IlBbxvdR0N8TQxIHy7E23SSE277yBtTNr8_xFWQ9jv_ltp5T12kkH8bMM/w400-h225-p-k-no-nu/o_19rcdfahpmamgi41lkp19d31lhla.jpg" title="Mereka Nyaris Kehilangan Nyawanya Saat Mengambil Foto" width="400" lazied="IMG">
+        <br>
+        <a class="Capy1" href="#">Mereka Nyaris Kehilangan Nyawanya Saat Mengambil Foto</a>
+        <br>
+        <span class="author-info">Oleh Aneh Unik</span>
+        <time datetime="2023-09-08T08:30:00+07:00" title="2023-09-08T08:30:00+07:00">September 08, 2023</time>
+    </div>
+    <br>
+    <br>
+    <div class="Kasus">
+        <img alt="5 Kasus Overdosis Paling Aneh yang Benar-Benar Pernah Terjadi" class="lazyload loaded" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXXD0eb-zW2hpnavXXoFrHmw_kG5pzpjlxrgAUygy80BGuxt81YKWkD7jQomAdsW4B1Vnl7NVu0raU-uKhaYQOh8KG6QYRmQebI1NqertKP17o5NybuqvvEnTh8GLzQ7U2WJGcH0ZdOfAiC8t_fc8NuRCSaodxePmw2y7CO2UryWSZcptxOrY-eLYL/w400-h225-p-k-no-nu/615849f02459e.jpg" height="225" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXXD0eb-zW2hpnavXXoFrHmw_kG5pzpjlxrgAUygy80BGuxt81YKWkD7jQomAdsW4B1Vnl7NVu0raU-uKhaYQOh8KG6QYRmQebI1NqertKP17o5NybuqvvEnTh8GLzQ7U2WJGcH0ZdOfAiC8t_fc8NuRCSaodxePmw2y7CO2UryWSZcptxOrY-eLYL/w400-h225-p-k-no-nu/615849f02459e.jpg" title="5 Kasus Overdosis Paling Aneh yang Benar-Benar Pernah Terjadi" width="400" lazied="IMG">
+        <br>
+        <a class="Capy1" href="#">5 Kasus Overdosis Paling Aneh yang Benar-Benar Pernah Terjadi</a>
+        <br>
+        <span class="author-info">Oleh Aneh Unik</span>
+        <time datetime="2023-09-06T13:24:00+07:00" title="2023-09-06T13:24:00+07:00">September 06, 2023</time>
+    </div>
+    <br>
+    <br>
+    <div class="Wilayah">
+        <img alt="Selain Indonesia, Negara dan Wilayah Ini Dulunya Pernah Dijajah oleh Belanda" class="lazyload loaded" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEVnbfsnF1cL6ExcNKHXe2GPK7C76HVb8pnHs2qPzCo-M6pbZ8YVRJ34cxID5uHK9aawOSQWPl6uqU_FO9_jrycWbuu-9KToBuMNl0AGGrnHHi8RYaiOww04zKkxNMGM6Z2PUEP0VSfXSL7TfDGWWO8iDIhqC78NJm8jkfQqFz__nu8lCb9jV5R9ry/w400-h225-p-k-no-nu/warga-negara-suriname.jpg" height="225" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEVnbfsnF1cL6ExcNKHXe2GPK7C76HVb8pnHs2qPzCo-M6pbZ8YVRJ34cxID5uHK9aawOSQWPl6uqU_FO9_jrycWbuu-9KToBuMNl0AGGrnHHi8RYaiOww04zKkxNMGM6Z2PUEP0VSfXSL7TfDGWWO8iDIhqC78NJm8jkfQqFz__nu8lCb9jV5R9ry/w400-h225-p-k-no-nu/warga-negara-suriname.jpg" title="Selain Indonesia, Negara dan Wilayah Ini Dulunya Pernah Dijajah oleh Belanda" width="400" lazied="IMG">
+        <br>
+        <a class="Capy1" href="#">Selain Indonesia, Negara dan Wilayah Ini Dulunya Pernah Dijajah oleh Belanda</a>
+        <br>
+        <span class="author-info">Oleh Aneh Unik</span>
+        <time datetime="2023-08-27T09:00:00+07:00" title="2023-08-27T09:00:00+07:00">Agustus 27, 2023</time>
+    </div>
+    <br>
+    <br>
+    <footer>
+        <ul>
+            <li>
+                <a href="https://www.anehdidunia.com/p/about-us.html">About Us</a>
+            </li>
+            <li>
+                <a href="https://www.anehdidunia.com/p/disclimer.html">Disclimer</a>
+            </li>
+            <li>
+                <a href="https://www.anehdidunia.com/p/contact-us.html">Contact Us</a>
+            </li>
+            <li>
+                <a href="https://www.anehdidunia.com/p/privacy-policy.html">Privacy Policy</a>
+            </li>
+            <li>
+                <a href="https://www.anehdidunia.com/p/pasang-iklan-premium.html">Pasang Iklan Premium</a>
+            </li>
+        </ul>
+        <div class="footer-text">@2021 - <a href="/" itemprop="url" title="Berita Aneh Unik Terbaru"><span itemprop="name">ANEH DI DUNIA</span></a></div>
+    </footer>
+</body>
+</html>
